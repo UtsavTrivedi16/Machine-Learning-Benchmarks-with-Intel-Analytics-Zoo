@@ -4,6 +4,7 @@ The following programs were written to explore Machine Learning using Analytics 
 # OS and Tools
 1) Ubuntu 18.04
 2) PyCharm
+3) Car Park Datasets are from a simulated sensor application which is used for predicting Car Park occupancy
 
 # Results
 Analytics Zoo is faster for training than DL4J but lacks compatibility with ARM architectures for further comparison.
